@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 
 	"name": "Bible Tab",
-	"description": "Bible Tab is a browser extension to show a Bible verse everytime you open a new tab.",
+	"description": "Bible Tab is a browser extension to show a Bible verse every time you open a new tab.",
 	"version": "2.0.0",
 
 	"browser_action": {},
